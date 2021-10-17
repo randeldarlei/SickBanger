@@ -1,4 +1,4 @@
-### Bem vindo(a)! Me chamado Darlei Randel 
+### Bem vindo(a)! Me chamo Darlei Randel, sou um profissional de Infraestrutura e iniciante no mundo DevOps.
 
 - 🔭 Hoje Trabalho com  DevOps e Observability 
 - 🌱 Estudando: Terraform, Ansible, Docker, Linux e Python 
