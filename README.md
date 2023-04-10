@@ -1,9 +1,8 @@
 ### Welcome! Enjoy 🤖.
 
-- 🔭 Hoje Trabalho com  DevOps e Observability.
-- 🌱 Estudando: Terraform, Kubernetes, Python e Shell Script.
-- 📫 Contato: darley_rom@hotmail.com.
-
+- 🔭 Work: DevOps and Observability.
+- 🌱 Study: Terraform, Kubernetes, Python and CI/CD.
+- 📫 Mail: darley_rom@hotmail.com
 
 
 <div align="center">
