@@ -1,4 +1,4 @@
-### Welcome! Enjoy 🤖.
+### Welcome! Enjoy 🤖
 
 - 🔭 Work: DevOps and Observability.
 - 🌱 Study: Terraform, Kubernetes, Python and CI/CD.
